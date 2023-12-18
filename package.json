@@ -1,0 +1,16 @@
+{
+    "name": "twitter-bot",
+    "version": "1.0.0",
+    "description": "Template to help create a Twitter bot",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Jeffery Frederic",
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "^16.3.1",
+        "twitter-api-v2": "^1.15.0"
+    },
+    "type": "module"
+}
